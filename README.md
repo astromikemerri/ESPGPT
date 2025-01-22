@@ -9,6 +9,7 @@ Hardware required:
   <li> SD card module with SPI interface (with an SD card in it)</li>
   <li> Pushbutton to activate recording </li>
   <li> LED to indicate ready to record and processing status</li>
+  <li> 220 owm resistor to limit power to LED </li>
   <li> 3W 8 ohm speaker</li>
 </ul>
 All wired up as follows:
