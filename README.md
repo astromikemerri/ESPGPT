@@ -26,7 +26,7 @@ To get this to work, you need to have an <A href= https://platform.openai.com/ac
 
 The libraries in the code are all fairly standard and easy to find and install; the audio library I used is https://github.com/earlephilhower/ESP8266Audio.
 
-If all goes to plan, you should end up being able to hold a conversation <A href=ESPGPT.mov>like this</a>.
+If all goes to plan, you should end up being able to hold a conversation <A href=ESPGPT.mov>like this</a>. You can also see the dialogue on the serial monitor, if the ESP32 is conncted to your computer.
 
 You can ring the changes on which spoken voice you use, which ChatGPT model, its "temperature" (ie, how random its answers are) and the NCONV parameter, which specifies how long a conversation the code remembers.
 
