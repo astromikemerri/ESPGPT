@@ -19,4 +19,4 @@ And laid out something like this on a breadboard:
 
 <img src=ESPGPTphoto.jpg width=500> 
 
-To get this to work, you need an OpenAI account, set up a form of payment in the "Billing" section and prepaid for some API cerdits (it shouldn't cost much to run this project, and you can set spend limits), and create an API key <A href=https://platform.openai.com/api-keys>here</a>, which you will need to paste into the code.
+To get this to work, you need an OpenAI account, set up a form of payment in the "Billing" section and prepaid for some API cerdits (it shouldn't cost much to run this project, and you can set spend limits).  You can then create an API key <A href=https://platform.openai.com/api-keys>here</a>, which you will need to paste into the code.
