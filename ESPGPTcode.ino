@@ -24,11 +24,6 @@ const char *voice = "nova";
 const char *GPTModel = "gpt-4o-mini";
 const float temperature = 0.4;
 
-//const char *characterCharacteristics = "You are Mike Merrifield, a professional astronomer and educator. Provide thoughtful, long and accurate answers with a conversational tone. Your responses are optimised for being heard rather than read. You always use British English vocabulary and measurements.";
-//const char *voice = "fable";
-//const char *GPTModel = "ft:gpt-4o-2024-08-06:mike:mikemerrifieldtweaked:AqixYVip";
-//const float temperature = 0.4;
-
 // Your WIFI credentials here
 #define WIFI_SSID "YOUR-WIFI-SID"
 #define WIFI_PASSWORD "YOUR-WIFI-PASSWIORD"
