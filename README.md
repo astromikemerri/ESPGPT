@@ -6,7 +6,7 @@ Hardware required:
   <li> ESP32 microcontroller (in my case a mini one to keep the footprint small)</li>
   <li> INMP441 I2S microphone</li>
   <li> Max98357 I2S audio amplifier breakout board</li>
-  <li> SD card module with SPI interface (with an SD card in it)</li>
+  <li> SD card module with SPI interface (with an SD card in it) to store sent and received audio files</li>
   <li> Pushbutton to activate recording </li>
   <li> LED to indicate ready to record and processing status</li>
   <li> 220 ohm resistor to limit power to LED </li>
