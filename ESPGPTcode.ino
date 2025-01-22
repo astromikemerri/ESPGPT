@@ -441,7 +441,7 @@ String tidyStringForJSON(String input) {
   return output;
 }
 
-// Function to call OpenAI text-to-speech, daving as an audio file the string given as an argument
+// Function to call OpenAI text-to-speech, saving as an audio file the string given as an argument
 bool TTSOpenAIAPI(String text) {
   http.begin(client, serverName);
   http.addHeader("Content-Type", "application/json");
@@ -558,7 +558,7 @@ void printLineSegment(String segment, int lineWidth) {
 }
 
 
-// Function to play the MP£ file created by text-to-speech
+// Function to play the MP3 file created by text-to-speech
 void playMp3File(const char *filename) {
   // Check if the file exists
   if (!SD.exists(filename)) {
