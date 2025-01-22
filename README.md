@@ -17,4 +17,4 @@ All wired up as follows:
 
 And laid out something like this on a breadboard:
 
-<img src=ESPGPTphoto.jpg>
+<img src=ESPGPTphoto.jpg width=500> 
