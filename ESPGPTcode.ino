@@ -26,7 +26,7 @@ const float temperature = 0.4;
 
 // Your WIFI credentials here
 #define WIFI_SSID "YOUR-WIFI-SID"
-#define WIFI_PASSWORD "YOUR-WIFI-PASSWIORD"
+#define WIFI_PASSWORD "YOUR-WIFI-PASSWORD"
 
 // OpenAI API key
 const char* openai_api_key = "YOUR-OPENAI-API-KEY";
