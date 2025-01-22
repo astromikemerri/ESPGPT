@@ -22,7 +22,7 @@ And laid out something like this on a breadboard:
 
 The assigned pins used on the ESP32 are all spelled out as #defines in <A href=ESPGPTcode.ino>the code</a>, but there is no reason you shouldn't reassign them if you wish.
 
-To get this to work, you need to have an <A href= https://platform.openai.com/account/>OpenAI account</a>, to set up a form of payment in the "Billing" section and prepay for some API credits (NB. NOT FREE! It shouldn't cost much to run this small project -- all the development has only cost me around $10. And you can set limits to ensure that you do not spend more than you want).  You can then create an API key <A href=https://platform.openai.com/api-keys>here</a>, which you will need to paste into <A href=ESPGPTcode.ino>the code</a>, along with your WIFI credentials.
+To get this to work, you need to have an <A href= https://platform.openai.com/account/>OpenAI account</a>, to set up a form of payment in the "Billing" section and prepay for some API credits (NB. NOT FREE! But it shouldn't cost much to run this small project -- all the playing around in development has only cost me around $10. And you can set limits to ensure that you do not spend more than you want).  You can then create an API key <A href=https://platform.openai.com/api-keys>here</a>, which you will need to paste into <A href=ESPGPTcode.ino>the code</a>, along with your WIFI credentials.
 
 The libraries in the code are all fairly standard and easy to find and install; the audio library I used is https://github.com/earlephilhower/ESP8266Audio.
 
