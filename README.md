@@ -1,5 +1,5 @@
 # ESPGPT
-Project to use the OpenAI APIs for speech-to-text and text-to-speech, to create an audio chat interface to ChatGPT, all running on an ESP32 coonected to your WIFI network.
+Project to use the OpenAI APIs for speech-to-text and text-to-speech, to create an audio chat interface to ChatGPT, all running on an ESP32 connected to your WIFI network.
 
 Hardware required:
 <ul>
