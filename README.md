@@ -16,11 +16,11 @@ All wired up as follows:
 
 <img src=ESPGPTtidy.jpg width=500>
 
-And laid out something like this on a breadboard or a PCB:
+And laid out something like this on a breadboard:
+<img src="ESPGPTphoto.jpg" width=500>
+(I also used the Fritzing file to create and order a PCB, for a <A HREF="ESPGPTPCB.JPG"> final version)
 
-<img src="ESPGPTphoto.jpg" width="49%" style="display:inline;">
-<div style="display:inline;width:5px;"></div>
-<img src="ESPGPTPCB.JPG" width="49%" style="display:inline;">
+<img src="ESPGPTphoto.jpg" width="49%" style="display:inline;"><div style="display:inline;width:5px;"></div><img src="ESPGPTPCB.JPG" width="49%" style="display:inline;">
 
 The assigned pins used on the ESP32 are all spelled out as #defines in <A href=ESPGPTcode.ino>the code</a>, but there is no reason you shouldn't reassign them if you wish.
 
