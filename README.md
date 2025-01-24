@@ -18,7 +18,9 @@ All wired up as follows:
 
 And laid out something like this on a breadboard or a PCB:
 
-<img/ src=ESPGPTphoto.jpg width=500>  <img/ src=ESPGPTPCB.JPG width=500> 
+<img src="ESPGPTphoto.jpg" width="49%" style="display:inline;">
+<div style="display:inline;width:5px;"></div>
+<img src="ESPGPTPCB.JPG" width="49%" style="display:inline;">
 
 The assigned pins used on the ESP32 are all spelled out as #defines in <A href=ESPGPTcode.ino>the code</a>, but there is no reason you shouldn't reassign them if you wish.
 
