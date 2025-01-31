@@ -31,4 +31,6 @@ If all goes to plan, you should end up being able to hold a conversation <A href
 
 You can ring the changes on which spoken voice you use, which ChatGPT model, its "temperature" (ie, how random its answers are) and the NCONV parameter, which specifies how long a conversation the code remembers.
 
+Also, feel free to play around with your own version of the code.  For example, <A href="ESPGPTvoice.ino">here</a> is a draft that I am currently tinkering with where the conversation is voice-activated, triggered by the volume level that the microphone picks up.  Presses of the button just pause and resume the conversation. If you find the sound triggering isn't working well, try pausing and resuming the conversaion, as this also makes the code recalibrate the background noise level.
+
 Have fun!
