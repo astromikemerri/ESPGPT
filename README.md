@@ -17,6 +17,7 @@ All wired up as follows:
 <img src=ESPGPTtidy.jpg width=500>
 
 And laid out something like this on a breadboard:
+
 <img src="ESPGPTphoto.jpg" width=500>
 
 (I also used the <A href=ESPGPT.fzz>Fritzing file</a> to create and order a PCB, for a <A HREF="ESPGPTPCB.JPG">final version</a>.)
