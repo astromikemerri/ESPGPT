@@ -35,7 +35,7 @@ const float temperature = 0.4;
 #define WIFI_SSID     "***YOUR-SSID-HERE***"
 #define WIFI_PASSWORD "***YOUR-PASSWORD-HERE***"
 
-const char* openai_api_key  = "^^^YOUR-API-KEY-HERE***";
+const char* openai_api_key  = "***YOUR-API-KEY-HERE***";
 const char* openai_endpoint = "https://api.openai.com/v1/chat/completions";
 const char* serverName      = "https://api.openai.com/v1/audio/speech";
 
